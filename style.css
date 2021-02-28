@@ -87,6 +87,10 @@ main .intro{
 .boxtesto p{
     color: lightgray;
 }
+footer p{
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
 
 
 
