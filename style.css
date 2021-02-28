@@ -49,7 +49,7 @@ main .intro{
 .clearfix{
     display: table;
     content: "";
-    clear: left;
+    clear: both;
 }
 .box, .boxtesto{
     width: 100%;
